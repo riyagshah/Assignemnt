@@ -39,8 +39,8 @@
 
 }
 .lop{
-    font-size: 10px;
-    line-height: 14px;
+    font-size: 14px;
+    line-height: 18px;
 }
 .but2{
     width: 60px ;
@@ -49,4 +49,13 @@
     border: grey;
     font-size: larger;
     border-radius: 4px ;
+}
+.data1{
+    /* border:1px solid red; */
+    width:60%;
+    margin: auto;
+    margin-bottom: 50px;
+    height:auto;
+    font-size: 30px;
+    color: grey;
 }
