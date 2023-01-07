@@ -22,7 +22,7 @@ const Classes = () => {
    
         return(
             <div key={ele.ID} className="cont2">
-           <img className="img1" src={ele.ImageUrl} alt="Image" srcset="" />
+           <img className="img1" src={ele.ImageUrl} alt="Image" />
             <h3>{ele.Name}</h3>
             <p className='lop'>{ele.ShortDesc}</p>
             <button className='but2'>View</button>
